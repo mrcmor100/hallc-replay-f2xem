@@ -10,3 +10,6 @@
 	path = hcswif
 	url = https://github.com/JeffersonLab/hcswif
 	branch = master
+[submodule "UTIL_XEM"]
+	path = UTIL_XEM
+	url = https://github.com/mrcmor100/UTIL_XEM.git
