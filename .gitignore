@@ -10,6 +10,7 @@ ROOTfiles
 cache
 hcana
 raw
+raw-jpsi
 raw.copiedtotape
 run_hms.sh
 run_shms.sh

@@ -1,0 +1,9 @@
+#include "DEF-files/SHMS/TIMING/TRIG/ptrig_histos.def"
+
+#Add Variables to T tree like those in production running.  
+#PID
+#GTR
+#DC
+#KIN
+
+#Possibly add some diagnostic histograms.
